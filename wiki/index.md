@@ -12,7 +12,12 @@ _No pages yet._
 
 ## Projects
 
-_No pages yet._
+- [JBT Marel — OmniBlu, OmniVision & Frontend Leadership](projects/jbt-omniblu-omnivision.md)
+- [Mandeo Digital — Revenue Growth](projects/mandeodigital-growth.md)
+- [UpSkill AI Workshop](projects/upskill-ai.md)
+- [Lifespan Edge](projects/lifespan-edge.md)
+- [Advanced Skin Care](projects/advanced-skin-care.md)
+- [mem-0](projects/mem-0.md)
 
 ## Technologies
 
